@@ -46,7 +46,7 @@ https://dart.dev/#try-dart
 
 1.4 Simple Flutter App on Mobile Device and Web
 
-<img src ="https://lethunguyen.github.io/MobileDev/demo/simpleApp.png">
+<img src ="demo/simpleApp.png">
 
 
 
