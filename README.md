@@ -44,10 +44,13 @@ https://dart.dev/#try-dart
 
 <img src ="demo/demo1.png">
 
-1.4 Simple Flutter App on Mobile Device and Web
+1.4 Simple Flutter App on iOS Mobile Device and Web
 
 <img src ="demo/simpleApp.png">
 
 
+1.5 Simple Flutter App on Android Mobile Device 
 
+
+<img src ="demo/android.png">
 
