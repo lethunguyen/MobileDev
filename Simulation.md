@@ -1,4 +1,4 @@
-# Setup to run Flutter App on Android Mobile Device Simulation <img src ="demo/nglthu.png">
+# Setup to run Flutter App on Android Mobile Device Simulation <img src ="demo/nglthu.png" align = "right">
 
 ## On Android
 
@@ -30,4 +30,4 @@ emulators can be launched directly from within Visual Studio Code,
 Recent Flutter SDK.
 ```
 
-# Hanoi, December 2024 <img src ="demo/logo.png">
+# Hanoi, December 2024 <img src ="demo/logo.png" align = "right">
