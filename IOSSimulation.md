@@ -1,25 +1,24 @@
 # Setup to run Flutter App on IPhone Simulation <img src ="demo/nglthu.png" align = "right">
 
-## On IPhone
+## On IPhone's Simulation (Apple Device)
 
 ### Requirment
 
 + XCode
 + IOS Simulator
 
-  
-
-<img src ="demo/iossimulator.png">
-
-
 
 ## Simulation
 
-1. Open folder iOS on Xcode
-<img src ="demo/ios.png">
+Step 1. Open folder iOS on Xcode
 
-2. Install IOS simulator
-3. Run
+<img src ="demo/IOS.png">
+
+Step 2. Install IOS simulator
+
+ <img src ="demo/iossimulator.png">
+
+Step 3. Run
 
 <img src ="demo/Xcode.png">
 
