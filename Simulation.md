@@ -1,4 +1,4 @@
-# Setup to run Flutter App on Android Mobile Device Simulation
+# Setup to run Flutter App on Android Mobile Device Simulation <img src ="demo/nglthu.png">
 
 ## On Android
 
@@ -29,3 +29,5 @@ From version 2.13.0 of Dart Code,
 emulators can be launched directly from within Visual Studio Code,
 Recent Flutter SDK.
 ```
+
+# Hanoi, December 2024 <img src ="demo/logo.png">
