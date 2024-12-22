@@ -2,7 +2,7 @@
 
 ## On IPhone's Simulation (Apple Device)
 
-### Requirment
+### Requirements
 
 + XCode
 + IOS Simulator
@@ -24,6 +24,7 @@ Step 3. Run
 
 
 # Note
+Any Questions please ?
 
 
 
