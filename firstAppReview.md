@@ -7,7 +7,8 @@
 
 ## My first App
 
-<img src ="demo/firstApp.png" width="30%">
+<img src ="demo/fristApp.png">
+
 
 
 # Note
