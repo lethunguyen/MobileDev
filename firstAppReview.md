@@ -7,7 +7,7 @@
 
 ## My first App
 
-<img src ="demo/fristApp.png">
+<img src ="demo/fristApp.png" width="30%">
 
 
 
