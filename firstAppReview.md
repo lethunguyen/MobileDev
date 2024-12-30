@@ -5,9 +5,9 @@
 <img src ="demo/tree.png">
 
 
-## Simulation
+## My first App
 
-<img src ="demo/android.png">
+<img src ="demo/firstApp.png" width="30%">
 
 
 # Note
