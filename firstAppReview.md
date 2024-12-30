@@ -2,7 +2,7 @@
 
 ## Widget Tree
 
-<img src ="demo/widgettree.png">
+<img src ="demo/tree.png">
 
 
 ## Simulation
