@@ -9,6 +9,11 @@
 
 <img src ="demo/fristApp.png" width="30%">
 
+## App with Navigation
+
+| Screen 1 : Home | Screen 2 : Detail | Screen 3 : Contact |
+| :--- | :---: | ---: |
+| <img src ="demo/app1.png" width="100%"> | <img src ="demo/app2.png" width="100%"> | <img src ="demo/app3.png" width="100%"> |
 
 
 # Note
