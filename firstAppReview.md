@@ -110,6 +110,26 @@ class _BottomNavigationPageState extends State<BottomNavigationPage> {
 
 
 ```
+# Practice WEEK 4 (Yêu cầu bài thực hành tuần 4)
+
+Group Assignment
++ Design Screens
+  
+  1. Home
+     
+  2. Content
+
+  3. About
+     
+Each Screen has Column Layout
+
+ 1.  Header : Image of Group Student
+    
+ 3.  Body : Content
+    
+ 5.  Footer: Phenikaa University, Student Name
+
++ Bottom Navigation Bar
 
 # Note
 
