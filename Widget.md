@@ -14,7 +14,7 @@ Tài liệu tham chiếu cho các Gói (các lớp giống nhau được đóng 
 ### Footer Package
 
 [Footer](https://pub.dev/documentation/footer/latest/)
-[Footer Class) (https://pub.dev/documentation/footer/latest/footer/Footer-class.html)
+[Footer Class] (https://pub.dev/documentation/footer/latest/footer/Footer-class.html)
 
 #### Properties (Thuộc tính)
 
@@ -23,7 +23,15 @@ Tài liệu tham chiếu cho các Gói (các lớp giống nhau được đóng 
 In which (Trong đó)  
 EdgeInsetsGeometry class abstract, base class for EdgeInsets that allows for text-direction aware resolution.
   
-  
+Example (Ví dụ)
+
+```
+Typical 10-pixel margin on all sides (Cách 10 pixels tất cả các hướng)
+
+const EdgeInsets.all(10.0)
+
+
+```
 
 ## My first App
 
