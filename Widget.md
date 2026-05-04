@@ -14,6 +14,7 @@ Tài liệu tham chiếu cho các Gói (các lớp giống nhau được đóng 
 ### Footer Package
 
 [Footer](https://pub.dev/documentation/footer/latest/)
+[Footer Class) (https://pub.dev/documentation/footer/latest/footer/Footer-class.html)
 
 ## My first App
 
