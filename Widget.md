@@ -4,6 +4,16 @@
 
 <img src ="demo/tree.png">
 
+## Packages
+
+The link for package reference
+Tài liệu tham chiếu cho các Gói (các lớp giống nhau được đóng gói trong thư mục)
+
+[Packages- Gói](https://pub.dev/packages?q=documentation)
+
+### Footer Package
+
+[Footer](https://pub.dev/documentation/footer/latest/)
 
 ## My first App
 
