@@ -16,6 +16,15 @@ Tài liệu tham chiếu cho các Gói (các lớp giống nhau được đóng 
 [Footer](https://pub.dev/documentation/footer/latest/)
 [Footer Class) (https://pub.dev/documentation/footer/latest/footer/Footer-class.html)
 
+#### Properties (Thuộc tính)
+
++ padding --> Class (Kiểu)  là EdgeInsetsGeometry
+
+In which (Trong đó)  
+EdgeInsetsGeometry class abstract, base class for EdgeInsets that allows for text-direction aware resolution.
+  
+  
+
 ## My first App
 
 <img src ="demo/fristApp.png" width="30%">
